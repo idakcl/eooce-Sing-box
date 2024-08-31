@@ -58,6 +58,10 @@ PORT=UDP端口 bash <(curl -Ls https://00.2go.us.kg/2.sh)
 ```
 PORT=UDP端口 bash <(curl -Ls https://github.com/eooce/Sing-box/releases/download/00/2.sh)
 ```
+或
+```
+PORT=UDP端口 bash <(curl -Ls https://github.com/idakcl/eooce-Sing-box/releases/download/00/2.sh)
+```
 
 ## Serv00|CT8 tuic无交互一键安装脚本
 * 必填变量：PORT=UDP端口
