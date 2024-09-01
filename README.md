@@ -34,7 +34,10 @@ bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_serv00.
 ```
 VMESS_PORT=tcp端口 HY2_PORT=udp端口 TUIC_PORT=udp端口 bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/main/sb_00.sh)
 ```
-
+或
+```
+VMESS_PORT=tcp端口 HY2_PORT=udp端口 TUIC_PORT=udp端口 bash <(curl -Ls https://raw.githubusercontent.com/idakcl/eooce-Sing-box/main/sb_00.sh)
+```
 ## Serv00|CT8一键三协议安装脚本vless-reality|hy2|tuic5 
 ```
 bash <(curl -Ls https://raw.githubusercontent.com/eooce/sing-box/test/sb_00.sh)
